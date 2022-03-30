@@ -1,0 +1,2 @@
+# covid19-lombardy-compartmental-modeling
+This paper provides the development of a SEIRD, a deter- ministic compartmental model that simulates the spread of COVID-19 in 12 cities of the Lombardy Region. Bergamo daily infections are closely ex- amined by augmenting a SIR model with age structures. The model estimates are further re- fined with the implementation of preventive mea- sures such as total lockdown, social distancing, and protective masks, employing deterministic and stochastic approaches.
